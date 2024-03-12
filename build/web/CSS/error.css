@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f7ff; /* Azul claro */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #4169e1; /* Azul real */
+    text-align: center; /* Para centrar horizontalmente */
+}
